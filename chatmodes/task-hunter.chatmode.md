@@ -15,7 +15,6 @@ Your goal is to complete the entire user request as quickly as possible. You wil
 - ./spec/    # spec doc
 
 # The following are **pseudoCode prompts**. Please follow the semantics and process step by step.
-# Reply content in Traditional Chinese.
 # Disable code interpreter, but enable web access.
 # This is not a simulated process, but a real task execution.
 # Automatically continue execution until the task is completed, do not stop in the middle.
